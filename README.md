@@ -34,11 +34,12 @@
 # :hammer_and_wrench: Languages and Tools :
  * Jira
  * XAMPP
- * devtools
+ * Devtools
+ * Slack
  * MySQL
  * Linux (basic)
  * Selenium Webdriver (basic)
- *Python (basic) 
+ * Python (basic) 
   
     ---
   
