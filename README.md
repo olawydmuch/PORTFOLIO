@@ -16,7 +16,10 @@
   # 📝 Table of Contents:
 * [About Me](About-Me)
 * [Languages and Tools](Languages-and-tools)
-* [Test cases](Test-cases)
+* [Courses](courses)
+* [Books](Books)
+* [Facebook groups](Facebook-groups)
+* [My project](My-projects)
   
   ---
 
@@ -34,7 +37,7 @@
  * devtools
  * MySQL
  * Linux (basic)
- * Selenium (basic)
+ * Selenium Webdriver (basic)
  *Python (basic) 
   
     ---
@@ -64,10 +67,36 @@
    ---
   
 # ⌨️ My Projects :
-  
+ 
  ## Test cases
   Test cases for Scauting Platform (This is an app for soccer scouts that allows you to view metrics, skills and player positions.)
   
-  [Test cases based on user story](https://docs.google.com/spreadsheets/d/15B_kxponXvDJuRT9Ur2NUWHkwNsxYgYmJvy-sK0NoB0/edit#gid=0)
+  [Test cases based on user story 1- login](https://drive.google.com/drive/folders/1b4ejLCryfdb8K9FMvOVeZSfjoPVc_Heu?usp=drive_link)
+ 
+  [Test cases based on user story 2- adding new player](https://drive.google.com/drive/folders/1UIo68lJd5ASPIftWfAbAisSLobbtf03U?usp=drive_link)
+  
+  ## Bugs 
+ 1. Bugs on Scauting Platform 
+  
+  [Bugs Scauting Platform](https://docs.google.com/spreadsheets/d/1S52Uq8oKFw8aQkvxeRAc96_uXJGvja0tZA1Gitp-yuU/edit?usp=drive_link)
+  
+  [Test report](https://docs.google.com/document/d/10FrAqNUED2g2QteEixXeDuzbrjEzMS6IsWJeUmGgHAA/edit?usp=drive_link)
+  
+ 2. Bugs on OLX App
+  
+  [Bugs OLX App](https://docs.google.com/spreadsheets/d/1i28ax2TFhAKJHSJEqkT3xm_xIemu4t17nmkXsiB7mzU/edit?usp=drive_link)
+  
+  ## SQL 
+  
+  In preparation.... 
+  
+  ## Selenium Webdriver
+  
+  Automation of tests of the phptravel.net website using Selenium Webdriver.
+  
+  [Python code](https://drive.google.com/drive/folders/1A0VdW6uQmWENj7pU8F6aJapTYyBoknD1?usp=drive_link)
+  
+  [Project description](https://drive.google.com/file/d/1olSicMEGgpSySCAfAl6aI9kUjsCF7pD-/view?usp=drive_link)
+ 
   
   
