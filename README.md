@@ -14,12 +14,12 @@
 </h1>
 
   # 📝 Table of Contents:
-* [About Me](About-Me)
-* [Languages and Tools](Languages-and-tools)
-* [Courses](courses)
-* [Books](Books)
-* [Facebook groups](Facebook-groups)
-* [My project](My-projects)
+* [About Me](#about-me)
+* [Languages and Tools](#languages-and-tools)
+* [Courses](#courses)
+* [Books](#books)
+* [Facebook groups](#facebook-groups)
+* [My project](#my-projects)
   
   ---
 
