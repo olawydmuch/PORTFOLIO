@@ -91,7 +91,6 @@
   
   In preparation.... 
   
-  ### Na potrzeby challengu link do Task 6 Subtask 1 (SQL) :) https://github.com/olawydmuch/challenge_portfolio_olaw#readme
   
   ## Selenium Webdriver
   
