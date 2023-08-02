@@ -46,7 +46,8 @@
 # 🎓 Courses : 
   
   * **WSB Wrocław:** Software Tester of Mobile and Server Applications 
-  * **DareIT:** Porfolio Challenge
+  * **DareIT:** Porfolio Challenge- Manual Tester
+  * * **DareIT:** Porfolio Challenge- Automatic Tester
   * **Udemy:** Podstawy manualnego testowania oprogramowania
   * **Udemy:** Python dla początkujących
   * **Udemy** Linux- Linia komend dla początkujących 
@@ -90,8 +91,8 @@
   ## SQL 
   
   In preparation.... 
-  
-  
+
+
   ## Selenium Webdriver
   
   Automation of tests of the phptravel.net website using Selenium Webdriver.
@@ -99,6 +100,8 @@
   [Python code](https://drive.google.com/drive/folders/1A0VdW6uQmWENj7pU8F6aJapTYyBoknD1?usp=drive_link)
   
   [Project description](https://drive.google.com/file/d/1olSicMEGgpSySCAfAl6aI9kUjsCF7pD-/view?usp=drive_link)
+
+  
  
   
   
