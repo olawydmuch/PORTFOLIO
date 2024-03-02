@@ -27,8 +27,9 @@
   
   My name is **Aleksandra Wydmuch** and I am an aspiring **Software Tester**. I graduated from the **Wrocław University of Technology** in the field of   Automation and Control Engineering (engineering studies) and Electrical Engineering, specialization Renewable Energy Systems (Master's studies). I also completed **postgraduate studies at WSB Wrocław in the field of Software Tester of Mobile and Server Applications.** In December 2023, I received the **ISTQB Foundation Level certificate.**
 
- My goal is to develop testing knowledge and become a junior manual tester, and in the future also an automation tester.
- **Why would I like to become a software tester?**
+My goal is to develop testing knowledge and become a junior manual tester and in the future also an automation tester. 
+Why would I like to become a software tester?
+
   ---
 
 # :hammer_and_wrench: Languages and Tools :
