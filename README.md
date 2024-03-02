@@ -25,10 +25,10 @@
 
 # :woman_technologist: About Me :
   
-  My name is Aleksandra Wydmuch and I am an aspiring Software Tester. I graduated from the Wrocław University of Technology in the field of   Automation and Control Engineering (engineering studies) and Electrical Engineering, specialization Renewable Energy Systems (Master's studies). I also completed postgraduate studies at WSB Wrocław in the field of Software Tester of Mobile and Server Applications. 
+  My name is **Aleksandra Wydmuch** and I am an aspiring **Software Tester**. I graduated from the **Wrocław University of Technology** in the field of   Automation and Control Engineering (engineering studies) and Electrical Engineering, specialization Renewable Energy Systems (Master's studies). I also completed **postgraduate studies at WSB Wrocław in the field of Software Tester of Mobile and Server Applications.** In December 2023, I received the **ISTQB Foundation Level certificate.**
 
  My goal is to develop testing knowledge and become a junior manual tester, and in the future also an automation tester.
-  
+ **Why would I like to become a software tester?**
   ---
 
 # :hammer_and_wrench: Languages and Tools :
@@ -61,40 +61,42 @@
         ---
   
 # 🟦 Facebook groups : 
-<a href="https://www.facebook.com/groups/141683635854223">
-  1. Testowanie oprogramowania
- <a href="https://www.facebook.com/groups/514014750879165">
-  2. Testuj, Dziewczyno!
-  4. Testowanie oprogramowania- wsparcie na starcie
-  5. Dare IT Community
+
+  [1. Testowanie oprogramowania](https://www.facebook.com/groups/141683635854223)
+  
+  [2. Testuj dziewczyno](https://www.facebook.com/groups/514014750879165)
+  
+  [3. Testowanie oprogramowania- wsparcie na starcie](https://www.facebook.com/groups/417833158717454?hoisted_section_header_type=recently_seen&multi_permalinks=922755534891878)
+  
+  [4. Dare IT Community](https://www.facebook.com/groups/2029087700497738)
   
    ---
   
 # ⌨️ My Projects :
  
- ## Test cases
+ ## ➡️ Test cases
   Test cases for Scauting Platform (This is an app for soccer scouts that allows you to view metrics, skills and player positions.)
   
   [Test cases based on user story 1- login](https://drive.google.com/drive/folders/1b4ejLCryfdb8K9FMvOVeZSfjoPVc_Heu?usp=drive_link)
  
   [Test cases based on user story 2- adding new player](https://drive.google.com/drive/folders/1UIo68lJd5ASPIftWfAbAisSLobbtf03U?usp=drive_link)
   
-  ## Bugs 
- 1. Bugs on Scauting Platform 
+  ## ➡️ Bugs 
+ **1. Bugs on Scauting Platform** 
   
   [Bugs Scauting Platform](https://docs.google.com/spreadsheets/d/1S52Uq8oKFw8aQkvxeRAc96_uXJGvja0tZA1Gitp-yuU/edit?usp=drive_link)
   
   [Test report](https://docs.google.com/document/d/10FrAqNUED2g2QteEixXeDuzbrjEzMS6IsWJeUmGgHAA/edit?usp=drive_link)
   
- 2. Bugs on OLX App
+ **2. Bugs on OLX App**
   
   [Bugs OLX App](https://docs.google.com/spreadsheets/d/1i28ax2TFhAKJHSJEqkT3xm_xIemu4t17nmkXsiB7mzU/edit?usp=drive_link)
   
-  ## SQL 
+  ## ➡️ SQL 
   
-  https://github.com/olawydmuch/SQL-tasks/blob/main/README.md
+  [SQL Tasks(basic and advanced)](https://github.com/olawydmuch/SQL-tasks/blob/main/README.md)
 
-  ## Selenium Webdriver
+ ## ➡️ Selenium Webdriver
   
   Automation of tests of the phptravel.net website using Selenium Webdriver.
   
