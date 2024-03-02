@@ -62,7 +62,7 @@
   
 # 🟦 Facebook groups : 
   1. Testowanie oprogramowania
-<a href="https://www.facebook.com/groups/141683635854223"
+<a href="https://www.facebook.com/groups/141683635854223">
    
   3. Testuj, Dziewczyno!
   4. Testowanie oprogramowania- wsparcie na starcie
