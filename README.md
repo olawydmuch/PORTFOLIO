@@ -90,8 +90,7 @@
   
   ## SQL 
   
-  (https://github.com/olawydmuch/SQL-tasks/blob/main/README.md)
-
+  https://github.com/olawydmuch/SQL-tasks/blob/main/README.md
 
   ## Selenium Webdriver
   
