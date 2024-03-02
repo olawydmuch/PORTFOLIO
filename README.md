@@ -46,7 +46,7 @@
   
   * **WSB Wrocław:** Software Tester of Mobile and Server Applications 
   * **DareIT:** Porfolio Challenge- Manual Tester
-  * * **DareIT:** Porfolio Challenge- Automatic Tester
+  * **DareIT:** Porfolio Challenge- Automatic Tester
   * **Udemy:** Podstawy manualnego testowania oprogramowania
   * **Udemy:** Kurs Jira od podstaw- zarządzanie projektami
   * **Udemy** Postman od podstaw-Testowanie Rest API
