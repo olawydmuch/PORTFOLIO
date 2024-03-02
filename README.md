@@ -34,11 +34,11 @@
 # :hammer_and_wrench: Languages and Tools :
  * Jira (basics)
  * API (basics)
- * Devtools
- * MySQL
- * Linux (basic)
- * Selenium Webdriver (basic)
- * Python (basic) 
+ * Devtools (basics)
+ * MySQL (basics)
+ * Linux (basics)
+ * Selenium Webdriver (basics)
+ * Python (basics) 
   
     ---
   
