@@ -27,15 +27,14 @@
   
   My name is Aleksandra Wydmuch and I am an aspiring Software Tester. I graduated from the Wrocław University of Technology in the field of   Automation and Robotics (engineering studies) and Electrical Engineering, specialization Renewable Energy Systems (Master's studies). I     also completed postgraduate studies at WSB Wrocław in the field of Software Tester of Mobile and Server Applications. 
 
- My goal is to develop testing knowledge and become a junior manual tester, and in the future also an automation tester, and in particular to test websites in Selenium.
+ My goal is to develop testing knowledge and become a junior manual tester, and in the future also an automation tester.
   
   ---
 
 # :hammer_and_wrench: Languages and Tools :
- * Jira
- * XAMPP
+ * Jira (basics)
+ * API (basics)
  * Devtools
- * Slack
  * MySQL
  * Linux (basic)
  * Selenium Webdriver (basic)
@@ -49,14 +48,15 @@
   * **DareIT:** Porfolio Challenge- Manual Tester
   * * **DareIT:** Porfolio Challenge- Automatic Tester
   * **Udemy:** Podstawy manualnego testowania oprogramowania
-  * **Udemy:** Python dla początkujących
-  * **Udemy** Linux- Linia komend dla początkujących 
+  * **Udemy:** Kurs Jira od podstaw- zarządzanie projektami
+  * **Udemy** Postman od podstaw-Testowanie Rest API
   
       ---
   
 # 📚 Books : 
   1. Zawód Tester - Radosław Smilgin
   2. Certyfikowany tester ISTQB. Poziom Podstawowy - Adam Roman, Lucjan Stapp
+  3. Python dla testera- Piotr Wróblewski
   
         ---
   
