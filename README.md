@@ -90,7 +90,7 @@
   
   ## SQL 
   
-  In preparation.... 
+  (https://github.com/olawydmuch/SQL-tasks/blob/main/README.md)
 
 
   ## Selenium Webdriver
