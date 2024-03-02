@@ -45,8 +45,8 @@
 # 🎓 Courses : 
   
   * **WSB Wrocław:** Software Tester of Mobile and Server Applications 
-  * **DareIT:** Porfolio Challenge- Manual Tester
-  * **DareIT:** Porfolio Challenge- Automatic Tester
+  * **DareIT:** Portfolio Challenge- Manual Tester
+  * **DareIT:** Portfolio Challenge- Automatic Tester
   * **Udemy:** Podstawy manualnego testowania oprogramowania
   * **Udemy:** Kurs Jira od podstaw- zarządzanie projektami
   * **Udemy** Postman od podstaw-Testowanie Rest API
@@ -62,9 +62,11 @@
   
 # 🟦 Facebook groups : 
   1. Testowanie oprogramowania
-  2. Testuj, Dziewczyno!
-  3. Testowanie oprogramowania- wsparcie na starcie
-  4. Dare IT Community
+<a href="https://www.facebook.com/groups/141683635854223"
+   
+  3. Testuj, Dziewczyno!
+  4. Testowanie oprogramowania- wsparcie na starcie
+  5. Dare IT Community
   
    ---
   
