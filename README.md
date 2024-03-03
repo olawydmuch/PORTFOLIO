@@ -5,14 +5,14 @@
 </div>
 
   
- <h1>
+ <h2>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
    Hi there, you can find me on Linkedin: 
    <div id="badges">
   <a href="https://pl.linkedin.com/in/aleksandra-wydmuch">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</h1>
+</h2>
 
   # 📝 Table of Contents:
 * [About Me](#about-me)
