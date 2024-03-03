@@ -20,7 +20,7 @@
 * [Books](#books)
 * [Facebook groups](#facebook-groups)
 * [My project](#my-projects)
-  
+
   ---
 
 # :woman_technologist: About Me :
@@ -42,17 +42,18 @@ My goal is to develop testing knowledge and become a junior manual tester and in
  * Python (basics) 
   
     ---
-  
-# 🎓 Courses and Certificates: 
+# 🥇Certificates:   
 
-  * **ISTQB Certificated Tester Foundation Level** Certification number: 107759 
-  
+  * **ISTQB Certificated Tester Foundation Level** Certification number: 107759
+
+---
+# 🎓 Courses : 
   * **WSB Wrocław:** Software Tester of Mobile and Server Applications 
   * **DareIT:** Portfolio Challenge- Manual Tester
   * **DareIT:** Portfolio Challenge- Automatic Tester
-  * **Udemy:** Podstawy manualnego testowania oprogramowania
-  * **Udemy:** Kurs Jira od podstaw- zarządzanie projektami
-  * **Udemy** Postman od podstaw-Testowanie Rest API
+  * [**Udemy:** Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/?couponCode=KEEPLEARNING)
+  * [**Udemy:** Kurs Jira od podstaw- zarządzanie projektami](https://www.udemy.com/course/kurs-jira-od-podstaw-zarzadzanie-projektami/?kw=kurs+Jira+od&src=sac&couponCode=KEEPLEARNING)
+  * [**Udemy** Postman od podstaw-Testowanie Rest API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/?couponCode=KEEPLEARNING)
   
       ---
   
