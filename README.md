@@ -19,7 +19,7 @@
 * [Courses](#courses)
 * [Books](#books)
 * [Facebook groups](#facebook-groups)
-* [My project](#my-projects)
+* [My projects](#my-projects)
 
   ---
 
