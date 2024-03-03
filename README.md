@@ -49,8 +49,8 @@ My goal is to develop testing knowledge and become a junior manual tester and in
 ---
 # 🎓 Courses : 
   * **WSB Wrocław:** Software Tester of Mobile and Server Applications 
-  * **DareIT:** Portfolio Challenge- Manual Tester
-  * **DareIT:** Portfolio Challenge- Automatic Tester
+  * [**DareIT:** Portfolio Challenge- Manual Tester](https://www.dareit.io/challenges/qa-manual-testing)
+  * [**DareIT:** Portfolio Challenge- Automatic Tester](https://www.dareit.io/challenges/wstep-do-testow-automatycznych)
   * [**Udemy:** Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/?couponCode=KEEPLEARNING)
   * [**Udemy:** Kurs Jira od podstaw- zarządzanie projektami](https://www.udemy.com/course/kurs-jira-od-podstaw-zarzadzanie-projektami/?kw=kurs+Jira+od&src=sac&couponCode=KEEPLEARNING)
   * [**Udemy** Postman od podstaw-Testowanie Rest API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/?couponCode=KEEPLEARNING)
