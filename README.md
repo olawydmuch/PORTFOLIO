@@ -1,3 +1,4 @@
+# SOFTWARE TESTER- Aleksandra Wydmuch
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Y34jqOCXhgEsqRLULa/giphy.gif" width="140"/>
