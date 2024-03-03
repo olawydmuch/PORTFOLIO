@@ -1,4 +1,4 @@
-# SOFTWARE TESTER- Aleksandra Wydmuch
+# SOFTWARE TESTER - Aleksandra Wydmuch
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Y34jqOCXhgEsqRLULa/giphy.gif" width="140"/>
@@ -99,7 +99,7 @@ My goal is to develop testing knowledge and become a junior manual tester and in
   
   ## ➡️ SQL 
   
-  [SQL Tasks(basic and advanced)](https://github.com/olawydmuch/SQL-tasks/blob/main/README.md)
+  [SQL Tasks (basic and advanced)](https://github.com/olawydmuch/SQL-tasks/blob/main/README.md)
 
  ## ➡️ Selenium Webdriver
   
