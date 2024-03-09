@@ -40,7 +40,8 @@ My goal is to develop testing knowledge and become a junior manual tester and in
  * MySQL (basics)
  * Linux (basics)
  * Selenium Webdriver (basics)
- * Python (basics) 
+ * Python (basics)
+ * XAMPP
   
     ---
 # 🥇Certificates:   
